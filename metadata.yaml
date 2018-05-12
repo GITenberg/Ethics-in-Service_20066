@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3382
     wikipedia: http://en.wikipedia.org/wiki/William_Howard_Taft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20066#Ethics-in-Service
 gutenberg_issued: '2006-12-09'
 gutenberg_type: Text
 identifiers:
